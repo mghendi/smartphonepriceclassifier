@@ -15,4 +15,4 @@ A supervised learning approach would be useful for this experiment since the dat
 
 #### Data Collection
 
-The data was collected through scrapping the priceinkenya.com website
+The data was collected through scrapping the priceinkenya.com website. For more details on the data acquisition script please check out Vincent's Repo https://github.com/lyraxvincent/phones-priceinkenya 
